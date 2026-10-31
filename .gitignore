@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+config.json
+data/*
+!data/.gitkeep
+received/*/*
+!received/*/.gitkeep
+certs/
+*.log
